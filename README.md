@@ -6,35 +6,35 @@ The application allows users to browse products, search and filter products, vie
 
 ## 🚀 Features
 
-* Product listing from local JSON data
-* Search products by name
-* Filter products by category
-* Product detail page
-* React Router navigation
-* Add products to cart
-* Increase/decrease product quantity
-* Remove products from cart
-* Total cart item count
-* Total cart price
-* Cart persistence using `localStorage`
-* Empty cart state
-* No-search-results state
-* Product not-found state
-* Responsive design for desktop, tablet, and mobile
-* Reusable React components
-* React Hooks and Context API for state management
+- Product listing from local JSON data
+- Search products by name
+- Filter products by category
+- Product detail page
+- React Router navigation
+- Add products to cart
+- Increase/decrease product quantity
+- Remove products from cart
+- Total cart item count
+- Total cart price
+- Cart persistence using `localStorage`
+- Empty cart state
+- No-search-results state
+- Product not-found state
+- Responsive design for desktop, tablet, and mobile
+- Reusable React components
+- React Hooks and Context API for state management
 
 ## 🛠️ Tech Stack
 
-* React.js
-* Vite
-* JavaScript
-* React Router DOM
-* CSS
-* React Context API
-* React Hooks
-* Local Storage
-* JSON
+- React.js
+- Vite
+- JavaScript
+- React Router DOM
+- CSS
+- React Context API
+- React Hooks
+- Local Storage
+- JSON
 
 ## 📁 Project Structure
 
@@ -99,12 +99,12 @@ Cart state is managed using the **React Context API**.
 
 The cart supports:
 
-* Adding products
-* Increasing quantity
-* Decreasing quantity
-* Removing products
-* Calculating total items
-* Calculating total price
+- Adding products
+- Increasing quantity
+- Decreasing quantity
+- Removing products
+- Calculating total items
+- Calculating total price
 
 Cart data is stored in the browser's **Local Storage**, so the cart remains available even after refreshing the page.
 
@@ -112,18 +112,18 @@ Cart data is stored in the browser's **Local Storage**, so the cart remains avai
 
 The home page provides:
 
-* Product search by name
-* Category filtering
-* Combined search and category filtering
-* Empty state when no matching products are found
+- Product search by name
+- Category filtering
+- Combined search and category filtering
+- Empty state when no matching products are found
 
 ## 📱 Responsive Design
 
 The application is designed to work across:
 
-* Desktop
-* Tablet
-* Mobile devices
+- Desktop
+- Tablet
+- Mobile devices
 
 Responsive CSS media queries are used to adapt the layout to different screen sizes.
 
@@ -153,20 +153,21 @@ No backend or external product API is required.
 
 This project demonstrates:
 
-* Functional Components
-* Props
-* `useState`
-* `useEffect`
-* `useMemo`
-* `useContext`
-* React Context API
-* React Router
-* Local Storage
-* Conditional Rendering
-* Reusable Components
+- Functional Components
+- Props
+- `useState`
+- `useEffect`
+- `useMemo`
+- `useContext`
+- React Context API
+- React Router
+- Local Storage
+- Conditional Rendering
+- Reusable Components
 
 ## 👩‍💻 Author
 
 **Sakshi Patil**
+GitHub Repository: https://github.com/sakshipati1/mini-ecommerce-react-assessment
 
 React Developer Intern Candidate
